@@ -9,8 +9,8 @@ To install and run the Docker container for this project, follow these steps:
 - Clone this repository to your local machine
 - Install Docker if it's not already installed on your machine
 - Navigate to the project directory in a terminal or command prompt
-- Run the command docker build -t [image-name] . to build the Docker image
-- Run the command docker run -p [apps-port:host-machine-port] [image-name] to start the container
+- Run the command `docker build -t [image-name] .` to build the Docker image
+- Run the command `docker run -p [apps-port:host-machine-port] [image-name]` to start the container
 
 ## Usage
 
